@@ -19,7 +19,7 @@ The modelling workflow compares unnormalized and L2-normalized spectra and inclu
 
 ## Running the code
 
-The notebooks use Python, Jupyter, NumPy, pandas, Matplotlib, scikit-learn, LightGBM, XGBoost, CatBoost, Optuna, and joblib.
+The notebooks use Python, Jupyter, NumPy, pandas, Matplotlib, scikit-learn, LightGBM, CatBoost, Optuna, and joblib.
 
 Input data and trained model files are not included. Update the file paths in each notebook before running. Saved outputs are available to view without rerunning the analyses.
 
